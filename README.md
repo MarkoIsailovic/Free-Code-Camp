@@ -1,3 +1,4 @@
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -27,7 +28,7 @@
   .silver-background {
     background-color: silver;
   }
-  #green-background {
+  #cat-photo-form {
     background-color: green;
   }
 </style>
